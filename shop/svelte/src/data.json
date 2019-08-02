@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "手机",
+        "imgurl":"/img/1.jpg",
+        "check":true,
+        "price":500,
+        "count":0
+    },
+    {
+        "id": 2,
+        "title": "衣服",
+        "imgurl":"/img/2.jpg",
+        "check":false,
+        "price":400,
+        "count":0
+    },
+    {
+        "id": 3,
+        "title": "水果",
+        "imgurl":"/img/3.jpg",
+        "check":false,
+        "price":300,
+        "count":0
+    },
+    {
+        "id": 4,
+        "title": "电脑",
+        "imgurl":"/img/4.jpg",
+        "check":false,
+        "price":200,
+        "count":0
+    },
+    {
+        "id": 5,
+        "title": "杯子",
+        "imgurl":"/img/5.jpg",
+        "check":false,
+        "price":100,
+        "count":0
+    }
+]
